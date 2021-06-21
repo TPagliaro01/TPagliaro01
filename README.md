@@ -5,7 +5,7 @@
 Hola, soy Thomas Pagliaro, naci en La Coruña, España, actualmente vivo en Argentina,tengo 20 años 🇪🇦🇦🇷 <br> 
 Actualmente estoy estudiando para ser desarrollador web 💻 <br>
 En este perfil de Github van a encontrar repositorios de Practicas mias y algun trabajo que otro 🤓 <br>
-Actualmente domino HTML, CSS, Bootstrap, TailwindCSS 🖱️
+Actualmente domino HTML, CSS, Bootstrap 🖱️
 
 <h3>Contactame</h3>
 
