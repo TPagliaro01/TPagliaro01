@@ -9,5 +9,5 @@ Actualmente domino HTML, CSS, Bootstrap 🖱️
 
 <h3>Contactame</h3>
 
-[Linkedin](https://www.linkedin.com/in/thomas-pagliaro-4243711a8/)<br>
-[Instagram](https://www.instagram.com/thomypagliaro/)
+[Linkedin](https://www.linkedin.com/in/thomas-pagliaro/)<br>
+[Instagram](https://www.instagram.com/thomaspagliaro01/)
